@@ -1,0 +1,77 @@
+*{
+	margin:0;
+	padding:5;
+	font-family: Arial;
+    box-sizing: border-box;
+}
+body {
+    
+    background: linear-gradient(
+        180deg,
+        rgb(255, 255, 254) 36%,
+        rgb(252, 250, 176) 92%
+      )
+      fixed;
+  }
+  main section {
+    width: 100%;
+}
+
+body section .arti1 {
+    padding: 20px;
+    background: #faeb99;
+    width: 47%;
+    float: left;
+    margin-right: 12%;
+}
+
+body section .arti1 > p, .arti2 > p {
+    text-align: justify;
+    line-height: 1.5;
+}
+
+
+ 
+body section .arti2 {
+    padding: 20px;
+    background: #faeb99;
+    width: 47%;
+    float: left;
+    
+}
+p{
+    font-family: Shizuru;  
+}
+body {
+    background-image: url('background\ pizza.jpeg');
+  }
+
+  body .arriba {
+    padding: 30px;
+    background: #ffffff;
+    width: 100%;
+    float: left;
+    
+}
+body .links {
+    padding: 8px;
+    background: #f3982f;
+   
+    
+}
+body .blanco {
+    padding: 20px;
+    background: #ffffff;
+    width: 47%;
+    float: left;
+   
+    
+}
+
+#reloj {
+    background-color: rgb(255, 255, 255);
+    color: rgb(245, 154, 35);
+    font-size: x-large;
+    font-weight: bold;
+    border-radius: 7px;
+  }
