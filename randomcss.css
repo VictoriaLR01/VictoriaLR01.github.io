@@ -75,3 +75,8 @@ body .blanco {
     font-weight: bold;
     border-radius: 7px;
   }
+  .carousel-inner img{ 
+      width: 20px;
+      
+
+  }
